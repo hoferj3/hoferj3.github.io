@@ -236,3 +236,10 @@ footer a:hover {
     font-size:.75rem;
     float:left;
 }
+
+h6 {
+    font-size:.005rem;
+    vertical-align:bottom;
+    text-align:center;
+    color:#B1BED3;
+}
